@@ -1,0 +1,15 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+    font-family: "PatchyRobots";
+  
+    src: url("./fonts/PatchyRobots.woff") format("woff"), /* Modern Browsers */
+      url("./fonts/PatchyRobots.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: bold;
+    font-style: normal;
+    
+  }
+
+  h1{
+      font-family: 'PatchyRobots';
+        color: #1efd5d;
+  }
