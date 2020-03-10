@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0490152962f4a4bb116f2ac8ebb6977e",
+    "revision": "93b41b72aed1fd95b333e37c603b957d",
     "url": "/robomance/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robomance/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "03f9df39a4ad8b459be8",
+    "revision": "60739f6e04ff7827ece3",
     "url": "/robomance/static/css/main.ff33add8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robomance/static/js/2.7895b2bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03f9df39a4ad8b459be8",
-    "url": "/robomance/static/js/main.9c5606d9.chunk.js"
+    "revision": "60739f6e04ff7827ece3",
+    "url": "/robomance/static/js/main.414671be.chunk.js"
   },
   {
     "revision": "e2200600937f35bbbfd1",

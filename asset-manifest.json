@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/robomance/static/css/main.ff33add8.chunk.css",
-    "main.js": "/robomance/static/js/main.9c5606d9.chunk.js",
-    "main.js.map": "/robomance/static/js/main.9c5606d9.chunk.js.map",
+    "main.js": "/robomance/static/js/main.414671be.chunk.js",
+    "main.js.map": "/robomance/static/js/main.414671be.chunk.js.map",
     "runtime-main.js": "/robomance/static/js/runtime-main.0024ed50.js",
     "runtime-main.js.map": "/robomance/static/js/runtime-main.0024ed50.js.map",
     "static/css/2.eb45ad44.chunk.css": "/robomance/static/css/2.eb45ad44.chunk.css",
     "static/js/2.7895b2bf.chunk.js": "/robomance/static/js/2.7895b2bf.chunk.js",
     "static/js/2.7895b2bf.chunk.js.map": "/robomance/static/js/2.7895b2bf.chunk.js.map",
     "index.html": "/robomance/index.html",
-    "precache-manifest.4e0c74c6e432cad985d51745d40e900b.js": "/robomance/precache-manifest.4e0c74c6e432cad985d51745d40e900b.js",
+    "precache-manifest.4656cfd9e5a4801d670d137d5237cbe3.js": "/robomance/precache-manifest.4656cfd9e5a4801d670d137d5237cbe3.js",
     "service-worker.js": "/robomance/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/robomance/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.ff33add8.chunk.css.map": "/robomance/static/css/main.ff33add8.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.7895b2bf.chunk.js",
     "static/css/main.ff33add8.chunk.css",
-    "static/js/main.9c5606d9.chunk.js"
+    "static/js/main.414671be.chunk.js"
   ]
 }
